@@ -161,9 +161,3 @@ python test_data.py
 - Mobile app version
 - Real-time updates from RGMCET website
 - Student portal integration
-
----
-
-**🎉 Congratulations!** You now have a comprehensive RGMCET AI Assistant powered by real data from the official website. This chatbot provides accurate, detailed information about all aspects of RGMCET and serves as a valuable resource for students, parents, and anyone interested in the college.
-
-**Ready to chat?** Run `python rgmcet_chatbot.py` and start exploring RGMCET! 🏫🤖
