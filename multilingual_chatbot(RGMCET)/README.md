@@ -176,6 +176,7 @@ python test_data.py
 
 **Ready to chat?** Run `python rgmcet_chatbot.py` and start exploring RGMCET! 🏫🤖
 
-**Demo Video[!https://github.com/user-attachments/assets/b2798e4f-0fae-4435-b8a0-5233449083e9]**
+![Demo Video](https://github.com/user-attachments/assets/b2798e4f-0fae-4435-b8a0-5233449083e9)
+
 
 
