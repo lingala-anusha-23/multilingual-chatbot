@@ -33,7 +33,10 @@ multilingual_chatbot/
 │   ├── Courses Offered.txt       # Program details with intake
 │   ├── Admission Procedure.txt   # Admission guidelines
 │   ├── Fee Structure.txt         # Official fee details
-│   └── Scholarships.txt          # Financial aid information
+│   └── Scholarships.txt
+|   ├── RGMCET  
+│   ├── RGMCET
+│   └── Courses 
 ├── rgmcet_chatbot.py             # Main chatbot application
 ├── test_data.py                  # Data integration test
 ├── test_rgmcet.py               # Comprehensive testing
@@ -165,5 +168,6 @@ python test_data.py
 ---
 
 **🎉 Congratulations!** You now have a comprehensive RGMCET AI Assistant powered by real data from the official website. This chatbot provides accurate, detailed information about all aspects of RGMCET and serves as a valuable resource for students, parents, and anyone interested in the college.
+
 
 **Ready to chat?** Run `python rgmcet_chatbot.py` and start exploring RGMCET! 🏫🤖
