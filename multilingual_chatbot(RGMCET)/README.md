@@ -171,12 +171,13 @@ python test_data.py
 
 ---
 
-**🎉 Congratulations!** You now have a comprehensive RGMCET AI Assistant powered by real data from the official website. This chatbot provides accurate, detailed information about all aspects of RGMCET and serves as a valuable resource for students, parents, and anyone interested in the college.
-
 
 **Ready to chat?** Run `python rgmcet_chatbot.py` and start exploring RGMCET! 🏫🤖
 
-![Demo Video](https://github.com/user-attachments/assets/b2798e4f-0fae-4435-b8a0-5233449083e9)
+## 🎥 **Demo video**
+
+https://github.com/user-attachments/assets/b2798e4f-0fae-4435-b8a0-5233449083e9
+
 
 
 
