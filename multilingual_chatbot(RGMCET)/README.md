@@ -32,11 +32,11 @@ multilingual_chatbot/
 │   ├── About RGMCET.txt          # Official college information
 │   ├── Courses Offered.txt       # Program details with intake
 │   ├── Admission Procedure.txt   # Admission guidelines
-│   ├── Fee Structure.txt         # Official fee details
-│   └── Scholarships.txt
-|   ├── RGMCET  
-│   ├── RGMCET
-│   └── Courses 
+│   ├── Courses.xlsx              # Lists of courses available
+│   └── Fee Structure.txt         # Official fee details
+|   ├── RGMCET.txt                # Details of RGMCET IN text format
+│   ├── RGMCET.txt.xlsx           # Basic details of college in Excel          
+│   └──  Scholarships.txt         # Scholarships details           
 ├── rgmcet_chatbot.py             # Main chatbot application
 ├── test_data.py                  # Data integration test
 ├── test_rgmcet.py               # Comprehensive testing
@@ -171,3 +171,5 @@ python test_data.py
 
 
 **Ready to chat?** Run `python rgmcet_chatbot.py` and start exploring RGMCET! 🏫🤖
+
+**Demo Video**
